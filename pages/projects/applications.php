@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+  <head>
+  	<meta charset="utf-8" />
+  	<meta name="Author" content="Guillaume Saussay" />
+  	<meta name="viewport" content="width=1024" />
+  	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9" />
+    <title>Guillaume SAUSSAY's Porfolio | Projects - Applications</title>
+      <!-- Prevent the browser to recompile the JavaScript and CSS between each page change -->
+      <!-- Keeps the current page instance alive and replaces only the body and the title in the head -->
+      <!-- Page suitable for all devices -->
+    <link data-turbolinks-track="true" href="http://gsaussay.github.io/pages/projects/assets/GS_applications.css" media="all" rel="stylesheet" />
+    <script data-turbolinks-track="true" src="http://gsaussay.github.io/pages/projects/assets/GS_final.js"></script>
+    <script src="http://gsaussay.github.io/pages/projects/assets/GS_final2.js"></script>
+    <meta content="authenticity_token" name="csrf-param" />
+    <meta content="ntYa8AIw8RimNaNcZoArb7bxgHZD4MaHl4i3jQtLvVI=" name="csrf-token" />
+    <!--Icon-->
+    <link rel="icon" type="image/png" href="http://gsaussay.github.io/assets/fav.png" />
+  </head>
+  
+  <body>
+    <?php include("menu.php"); ?>
+    
+    <div style="max-width:1200px; margin-left: auto; margin-right: auto">
+    
+    <article id="projectsPresentation">
+      <div id="anounce">
+        <h2 style = "margin-left: 6%; margin-right: 5%"> <b>Applications implemented</b> </h2>
+        <h4 style = "text-align: justify; margin-right:5%; margin-left: 7%; max-width:1000px">
+            In this part, you can find all the applications I implemented during my curriculum just as my personal ones.
+          <br />
+            For the moment, you can only see one of them but more are coming! You can go through all of them by selecting the main section regarding each of these.
+          <br />
+            Do not hesitate to contact me if you have any questions about them~~!
+          <br />
+          <br />
+        </h4>
+      </div>
+    </article>
+    
+    <div class="line-separator"></div>
+    
+    <section id="tweetPresentation">
+      <div id="description">
+        <h3 style = "margin-left: 40%"> <br /> <b>Android Based Image Processing Application</b> </h3>
+      
+        <h4>
+          <table class="image">
+          <tr><td>
+          <img id = "first" alt="Application Design > 4.0" title="Application Design > 4.0" style="height:170px; padding-bottom:0.5em; margin-left:5% ; margin-top:-5%" src="assets/apa.png"></td></tr><tr><td class="caption" style="max-width:30px; text-align:center">      
+          <div style="font-size:80%">Visual of the Android Application for Android devices with a version greater than 4.2</div></td></tr></table>
+        </h4>
+        
+        <h4 style="margin-left: 33%; margin-right: 4%; text-align:justify">
+            During my studies at the ENSEA, I made an Android Based Image Processing Application available for all Android devices using an Android version greater than 2.2 (Froyo). A particular version is available when the device use a version of Android greater or equal than Android 4.2. 
+          <br />
+            After having launched the application, the user can take a photo using the camera or directly retrieve one from the gallery. After having selected the desired picture, the user can apply a combination of several picture treatments and cancel them if needed. To this day, more than twenty of them are available. The list of the ones implemented is provided below:
+          <br />
+          <br />
+        </h4>
+      </div>
+    </section>
+      
+    <h4>
+      <div class="columns" style="margin-left: 33%; margin-right: 4%;">
+        <ul id="awsPoints" role="analysesAws" style="max-width:800px;">
+          <li>
+            Brightness;
+          </li>
+          <li>
+            Color Intensity;
+          </li>        
+          <li>
+            Contrast;
+          </li>
+          <li>
+            Cross Process;
+          </li>
+          <li>
+            Documentary;
+          </li>
+          <li>
+            Duo Tone;
+          </li>
+          <li>
+            Fill Light;
+          </li>
+          <li>
+            Fish Eye;
+          </li>
+          <li>
+          Flip Vertical/Horizontal;
+          </li>
+          <li>
+            Grain;
+          </li>
+          <li>
+            Grayscale;
+          </li>
+          <li>
+            Lomoish;
+          </li>
+          <li>
+            Negative;
+          </li>
+          <li>
+            Posterize;
+          </li>
+          <li>
+            Rotate;
+          </li>
+          <li>
+            Saturate;
+          </li>
+          <li>
+            Sepia;
+          </li>
+          <li>
+            Sharpen;
+          </li>
+          <li>
+            Temperature;
+          </li>
+          <li>
+            Tint;
+          </li>
+          <li>
+            Vignette.
+          </li>
+        </ul>
+      </div>
+    <br />
+    </h4>
+    
+    <section>
+      <table class="image"><tr><td>
+        <img id = "second" alt="Application Design < 4.0" title="Application Design < 4.0" style="height:250px; margin-left: 30%; margin-top: -80%; padding-bottom:1em; margin-right:5%" src="assets/apam.png"></td></tr><tr><td class="caption" style="max-width:10px; text-align:center"><div style="font-size:80%; margin-left:20%">Visual of the Android Application for Android devices with a version less than 4.0</div></td></tr></table>
+      
+      <h4 style="margin-left: 33%; margin-right: 4%; text-align:justify; max-width:800px">
+        In addition to the treatments' list given above and the possibility to save the pictures modified, the appplication can be used to send the images to another device or through the Internet using bluetooth, mail server or MMS.
+      </h4>
+    </section>
+  
+    <script type="text/javascript">
+      var promosFooter = new AC.PromoManager('homepage-tile-four-c10e86ec-1dc7-443c-9874-612ba027591f-us', 'section4');
+    </script>
+
+  </body>
+</html>

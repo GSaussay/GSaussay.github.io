@@ -5,11 +5,11 @@
   	<meta name="Author" content="Guillaume Saussay" />
   	<meta name="viewport" content="width=1024" />
   	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9" />
-    <title>Guillaume SAUSSAY's Porfolio | Passions - Literature</title>
+    <title>Guillaume SAUSSAY's Porfolio | Projects - Data Analyses</title>
       <!-- Prevent the browser to recompile the JavaScript and CSS between each page change -->
       <!-- Keeps the current page instance alive and replaces only the body and the title in the head -->
       <!-- Page suitable for all devices -->
-    <link data-turbolinks-track="true" href="http://gsaussay.github.io/pages/projects/assets/GS_literature.css" media="  all" rel="stylesheet" />
+    <link data-turbolinks-track="true" href="http://gsaussay.github.io/pages/projects/assets/GS_analyses.css" media="  all" rel="stylesheet" />
     <script data-turbolinks-track="true" src="http://gsaussay.github.io/pages/projects/assets/GS_final.js"></script>
     <script src="http://gsaussay.github.io/pages/projects/assets/GS_final2.js"></script>
     <meta content="authenticity_token" name="csrf-param" />
@@ -21,9 +21,11 @@
   <body>
     <?php include("menu.php"); ?>
     
+    <div style="max-width:1200px; margin-left: auto; margin-right: auto">
+    
       <article id="projectsPresentation">
         <div id="anounce">
-        <h2 style="margin-left: 6%; margin-right: 5%"> <b>Reading - Literature</b> </h2>
+        <h2 style="margin-left: 6%; margin-right: 5%"> <b>Data Analyses</b> </h2>
           <h4 style= "text-align: justify; margin-right:5%; margin-left: 7%; max-width:1000px">
             In this part, you can find all the analysis projects I made during my curriculum just as my personal ones.
           <br />
@@ -74,16 +76,16 @@
         <br />
           The data I used consisted of more than 60 million tweets collected from 150,000 users during 10 months from November 2010 to August 2011. I measured the overall sentiment of the tweets with respect of the time of the year they were collected, just as  the ones toward the major democrat and republican figures and the current President of the United States: President Obama.
            
-        <img alt="Twitter Developper API logo" title="Twitter Developper API" style="height:150px ; margin-left: -25%; margin-          top:7%; margin-right: 2%" src="assets/Picture7.png">
+        <img alt="Twitter Developper API logo" title="Twitter Developper API" style="height:150px ; margin-left: -25%; margin-top:7%; margin-right: 2%" src="assets/Picture7.png">
         <br />
         <br />
           This Project was really an EXCELLENT experience. I learned how to use Amazon Web Services and Twitter Streaming API, how to implement machine learning and semantic analyses algorithms using a lexicon, but also in implementing these algorithms by myself. All in all, I learned a lot in terms of applications, but also gained experience on the successful approaches and mental agility to conduct a data mining project. I personally retain the importance of the preprocessing steps and the fact that these ones take often a lot of time, in particular with such a big dataset, and the extreme importance of always questioning at each step: What are we seeking in doing that? Are the results what we are expected? If no, why? Where could we have made a mistake? How can we make our analyses more reliable? Etc.
         <br />
         <br />
-          The results allowed me, in particular, to show a (small) decorrelation between Twitter mood towards republican versus the one towards democrats and a strong correlation between these results and the ones of the US elections; which was an unsuspected   good result!
+          The results allowed me, in particular, to show a (small) decorrelation between Twitter mood towards republican versus the one towards democrats and a strong correlation between these results and the ones of the US elections; which was an unsuspected good result!
         <br />
         <br />
-          You can find an extract of my final report <a href= 'http://'/> here; do not hesitate to contact me if you have any questions about the methods I used, or my study in general.
+          You can find an extract of my final report <a href='http://'>here<a/>; do not hesitate to contact me if you have any questions about the methods I used, or my study in general.
         <br />
       </h4>
 
@@ -92,6 +94,6 @@
       </script>
         
       <img alt="" style="height:200px; margin-left:60%; margin-right: 5%" src="assets/Picture2.jpg">
-      
+
   </body>
 </html>

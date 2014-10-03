@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+  <head>
+	  <meta charset="utf-8" />
+	  <meta name="Author" content="Guillaume Saussay" />
+	  <meta name="viewport" content="width=1024" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9" />
+    <title>Guillaume SAUSSAY's Porfolio | Profile</title>
+    <!-- Prevent the browser to recompile the JavaScript and CSS between each page change -->
+    <!-- Keeps the current page instance alive and replaces only the body and the title in the head -->
+    <!-- Page suitable for all devices -->
+    <link data-turbolinks-track="true" href="http://gsaussay.github.io/assets/GS_profile.css" media="all" rel="stylesheet" />
+
+    <script data-turbolinks-track="true" src="http://gsaussay.github.io/assets/GS_final.js"></script>
+    <script src="http://gsaussay.github.io/assets/GS_final2.js"></script>
+    <meta content="authenticity_token" name="csrf-param" />
+    <meta content="ntYa8AIw8RimNaNcZoArb7bxgHZD4MaHl4i3jQtLvVI=" name="csrf-token" />
+    <!--Icon-->
+    <link rel="icon" type="image/png" href="http://gsaussay.github.io/assets/fav.png" />
+  </head>
+	
+  <body>
+    <?php include("menu.php"); ?>
+
+    <a name="home"></a>
+    <section id="home">
+      <img alt="Profile Photo" height = "200" class="photo" src="assets/NewPhoto_GuillaumeSaussay.jpg" />
+      <div id="slogan">
+        <h1>Guillaume SAUSSAY</h1>
+        <h2><b>-</b> Engineer, Developer & Manager</h2>
+      </div>
+    </section>
+
+    <div style="max-width:1200px; margin-left: auto; margin-right: auto">
+
+      <section id="presentation">
+        <div id="anounce" style = "margin-top: 300px">
+          <h2 style="margin-left: 6%"> <b class = "underline">Profile Page or "Who the heck is that Guy!?"</b> </h2>
+          <h4 style= "text-align: justify; margin-right:5%; margin-left: 7%; max-width:1000px">
+            My name is Guillaume SAUSSAY.
+            My goal is to make a strong and positive impact whether it is for people that are close to me or through my work.
+          <br />
+            I am currently seeking a new full-time position as a Data Scientist, a Business Analyst, a Project Manager, a Software Engineer or a Web/E-Commerce Developer (Yeah, it's a lot of possibilities, but a man with a big heart has also a lot of passions! ;).
+          <br />
+          <br />
+          </h4>
+        </div>
+      </section>
+
+      <section id="workExperience">
+        <h3 style="margin-left: 6%"> <b class = "underline">PROFESSIONAL EXPERIENCE</b> </h3>
+        <img alt="Colibri Logo" title="Colibri Import-Export" style="height:150px; margin-right:0%" src="assets/colibri.jpg" />
+
+        <h4 style="text-align: justify; margin-left:7%; margin-right:5%; max-width:1000px">
+            Attracted by such rich and challenging fields as computing and the Internet, and particularly excited at the thought of improving my skills in web development, I decided to dedicate my first year internship in Graduate school (ENSEA) (from June to August 2012) at the implementation of an e-commerce website for an import-export company: Colibri Import-Export.
+          <br />
+            This website had to be multilingual (English/French/German), multi-store with unique stock and customer volume pricing plan, implemented on Magento, the number one e-commerce platform in the world.
+          <br />
+          <img alt="Logo Magento" title="Magento" style="display:block;height: 80px; float: none; margin-left: auto; margin-right:auto; margin-bottom:20px" src="assets/magento.png"> 
+
+            Having fulfilled the requirements in the specifications in two weeks, all worked very well, until that day when we were confronted at one of the most important crisis encounter by the company...
+          <br />
+            Two out of the three servers we owned were hacked by someone who once worked there. Because of that, three out of the six e-commerce websites weren't working anymore; among these ones was the one on which the company had the most profit with and the one I was working on. It was a shock for everyone, but quickly, we tried to understand what happened and how to recover from this situation. At the beginning, the company CEO wanted to call freelancers developers to quickly build new websites in order to limit our lost. Nevertheless, he decided to trust me and my abilities and asked me to do the job. I was then promoted group leader of 5 others trainees and we worked on migrating back-ups of the 3 websites into the Prestashop platform, the number one e-commerce solution in Europe. This choice was motivated by the CEO and one of the consultants which were more confident in its fonctionalities to manage the "one stock for multi-store" requirement. It took me one month during which I also made pieces of maintenance and renewal work of the showcase websites of the company (with one of them realized using the CMS Drupal and the other one with basic HTML/CSS). After this month, we successfully managed to finish the websites with new features and designs and to incorporate them into the company information system architecture.
+          <br />
+          <img alt="Logo Drupal" title="Drupal" style="height:150px ; margin-bottom:20px; margin-left: 5%" src="assets/drupal.png">
+          <br />
+            This training course was really an extraordinary experience. It was not only a chance to apply the theoretical knowledge I learned in school but also an opportunity to go further into a work I loved in a professional but really friendly environment. I truly enjoyed these moments spent there just as the team and the job I made.
+          <br />
+            Thanks to this training, I improved my computing skills (HTML/CSS, PHP, SQL script writing), had a better understanding of website and database development tools (Apache, mySQL, phphMyAdmin) and familiarized myself with the OsCommerce e-commerce solutions. Moreover, I delved deeply into the Magento and Prestashop management and exploited their tools into the realization of important and even critical modules in term of security, such as online payment modules, customer volume pricing plans (now automatically lavished for the last updates of Prestashop) and SQL script writing when I wanted to align the prices with those of the different delivery services.
+            The CEO of the company, decided after these 6 weeks of internship to hire me as a E-Commerce Web Developer during 4 other months to continue optimizing the websites and provide services and advices for their future development.
+          <br />
+          <br />
+            Following the internship period, I continued to optimize the realized websites including the multilingual (English, French, German) e-commerce site on Magento I built, three websites on Prestashop and two showcase websites of the company with one of them realized with Drupal.
+            Additionally, I migrated 2 others e-commerce websites beforehand realized with Magento and OsCommerce to the Prestashop solution.
+          <br />
+        </h4>
+        
+        <img alt="Prestashop logo" title="Prestashop" style=" display:block; height: 100px; float: none; margin-left: auto; margin-right:auto; margin-bottom: 20px" src="assets/prestashop.png"/>
+
+        <h4 style="text-align: justify; margin-left:7%; margin-right:5%; max-width:1000px">
+            Aside from the necessary pieces of maintenance and renewal work made through this period (achieved while continued my studies at the ENSEA), I wrote also two documentations listing the tasks performed as well as one user & maintenance guide of the websites in-order-to facilitate the work of the Colibri Import-Export's staff.
+          <br />
+          <br />
+            This experience allowed me to acquire work experience, management and e-commerce development skills. Also and in particular, it allowed me to discover an entire professional area, area for which I have a strong desire to continue going further into: Software Engineering & Web Development.
+          <br />
+          <br />
+        </h4>
+      </section>
+
+      <section id="curriculum">
+        <h3 style="margin-left: 6%"> <b class = "underline">EDUCATION</b></h3>
+        <img alt="IIT logo" title="IIT" style="height:170px; ; margin-left:5%; margin-top:3%; margin-right:3%" src="assets/iitlogo.jpg">
+        <h4 style="text-align: justify; margin-left:7%; margin-right:5%; max-width:1000px">
+          <br />
+            I already hold a Master of Science Degree in Computer Engineering from the Illinois Institute of Technology in Chicago, Illinois. During this formation, I especially specialised myself in Software, Network and Telecommunications. My overall GPA was 3.50/4.0 and my grade repartition worked as follow:
+          <br />
+          <br />
+    
+          <div class="columns" style="text-align: left">
+            <p> <b>First Semester</b> </p>
+            <ul id="firstColumn">
+              <li>
+                CS 450: Operating Systems (A)
+              </li>
+              <li>
+                ECE 408: Introduction to Computer Networks (B)
+              </li>
+              <li>
+                ECE 429: Introduction to VLSI Design (A)
+              </li>
+              <li>
+                ECE 567: Statistical Signal Processing (A)
+              </li>
+              <li>
+                ECE 740: Telecom Networks: Requirements to Deployment (A)
+              </li>
+            </ul>
+            <p> <b>Second Semester</b> </p>
+              <ul id="secondColumn">
+                <li>
+                  CS 522: Advanced Data Mining (B)
+                </li>
+                <li>
+                 CS 551: Operating Systems Design & Implementation (B)
+                </li>
+                <li>
+                 ECE 516: Coding for Distributed Storage Systems (B)
+                </li>
+                <li>
+                  ECE 545: Advanced Computer Networks (B)
+                </li>
+              </ul>  
+          </div>
+
+          <br />
+            At the present moment (Sept' 2014), I am still a Student from one of the top French 'Grandes Écoles' (which corresponds to a top US university) the ENSEA a Graduate School in Electrical Engineering, Computer Science and Telecommunications. I have already finished my formation in there. In order to obtain my diploma, I must provide the proof of a successful four to six-month experience in a company or in a laboratory.
+          <br />
+          <img alt="ENSEA logo" title="ENSEA" style="height:170px; margin-top:30px" src="assets/ensea-logo.jpg" />
+          <br />
+            At ENSEA, I was above all excellent in Mathematics, Theoretical Physics and Signal Processing. Furthermore, I took special courses in Programming Language and Application Development. My overall GPA was 3.76/4.0 and my grade repartition for my major courses I took worked as follow:
+          <br />
+          <br />
+  
+          <div class="columns" style="text-align: left">
+            <ul id="thirdColumn">
+              <li>
+                Advanced Probability and Statistics (A)
+              </li>
+              <li>
+                Signal Processing (A)
+              </li>
+              <li>
+                Advanced Analog and Digital Electronics (B)
+              </li>
+              <li>
+                Numerical Analysis (A)
+              </li>
+              <li>
+                Theoretical and Quantum Physics (A)
+              </li>
+            </ul>
+            <ul id="fourthColumn">
+              <li>
+                Advanced Java Programming (B)
+              </li>
+              <li>
+                Android Application Development (A)
+              </li>
+              <li>
+                Signal Transmission (A)
+              </li>
+              <li>
+                C Programming (B)
+              </li>
+            </ul>  
+          </div>
+
+          <img alt="Pierre Corneille" title="CPGE Pierre Corneille" style="height:200px; margin-top: 3%; margin-bottom:1%" src="assets/statue.jpg" />
+          <br />
+            Before having been able to enter in Graduate School, and after having passed my French 'Baccalauréat', I spent two years in 'Classes Préparatoires aux Grandes Écoles' which are two years of highly selective preparatory classes to enter Graduate School. Only the elite can be accepted there to learn and acquire an excellent level in Mathematics  and Physics; it was my case. I was in one of the top 20 over than 200 'Classe Prépa': The one of Pierre Corneille in Rouen.
+          <br />
+            These two years of preparatory classes were absolutely incredible! They were really hard and focused on a really high level in Mathematics (Algebra and Analysis), Physics (Mechanics, Optics, Electronics,Thermodynamics and Chemistry) and Science in Engineering. Thanks to this experience, I was able to acquire really strong and robust learning and working skills just as the will to never stop or abandon and of giving always the best of myself in all circunstances.
+          <br />
+          <br />
+            You can also consult my <a href="http://www.linkedin.com/in/guillaumesaussay/en">LinkedIn profile</a> if you want more information or connect! 
+          <br />
+          <br />
+        </h4>
+      </section>
+    
+    </div>
+
+    <script src="http://gsaussay.github.io/assets/plusone.js">
+    </script> <script src="http://gsaussay.github.io/assets/view.min.js">
+    </script>
+  
+  </body>
+</html>
