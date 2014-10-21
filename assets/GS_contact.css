@@ -5301,7 +5301,7 @@ h2 + h4 { /* selects only those h4 elements immediately following a h2 */
     border: 3px solid gray;
     border-radius: 5px;
     font-size: 18px;
-    margin-top: 70px;
+    margin-top: 100px;
     margin-left: 25%;
     margin-right: 25%; 
     padding: 25px 0 25px;
