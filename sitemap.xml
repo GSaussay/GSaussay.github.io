@@ -6,42 +6,32 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>http://www.guillaumesaussay.me/index.html</loc>
-        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.guillaumesaussay.me/Profile.html</loc>
-        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.guillaumesaussay.me/Projects.html</loc>
-        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.guillaumesaussay.me/Passions.html</loc>
-        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.guillaumesaussay.me/Contact.html</loc>
-        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.guillaumesaussay.me/Projects/analyses.html</loc>
-        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.guillaumesaussay.me/Projects/analyses.html</loc>
-        <changefreq>weekly</changefreq>
     </url>
      <url>
         <loc>http://www.guillaumesaussay.me/Projects/applications.html</loc>
-        <changefreq>weekly</changefreq>
     </url>
     <url>
         <loc>http://www.guillaumesaussay.me/Projects/programs.html</loc>
-        <changefreq>weekly</changefreq>
     </url>      
     <url>
         <loc>http://www.guillaumesaussay.me/Projects/papers.html</loc>
-        <changefreq>weekly</changefreq>
     </url>   
 </urlset>
