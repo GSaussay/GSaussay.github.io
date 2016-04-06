@@ -4990,8 +4990,6 @@ th.visible-print, td.visible-print {
 @font-face {
     font-family: "GillSans light";
     src: url("Gillsans-light.ttf");
-    src: url("Gillsans-light.eot");
-    src: url("Gillsans-light.woff");
 }
 
 .alert {
