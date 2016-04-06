@@ -4982,12 +4982,16 @@ th.visible-print, td.visible-print {
     font-family: "GillSans light", "Satellite","Helvetica","sans serif";
 }
 @font-face {
-    font-family: "GillSans light", "Satellite";
-    src: url("Gillsans-light.ttf");
+    font-family: "Satellite";
     src: url("Satellite.svg") format('svg');    
     src: url("Satellite.otf");
-
 }
+
+@font-face {
+    font-family: "GillSans light";
+    src: url("Gillsans-light.ttf");
+}
+
 .alert {
     border: medium none;
     border-radius: 0;
