@@ -13,7 +13,7 @@ audio:not([controls]) {
     display: none;
 }
 html {
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
 }
 body {
     margin: 0;
@@ -50,7 +50,7 @@ mark {
     color: #000;
 }
 code, kbd, pre, samp {
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
     font-size: 1em;
 }
 pre {
@@ -201,7 +201,7 @@ html {
 body {
     background-color: white;
     color: #333333;
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
     font-size: 14px;
     line-height: 1.42857;
 }
@@ -272,7 +272,7 @@ hr {
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: inherit;
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
     font-weight: 500;
     line-height: 1.1;
 }
@@ -488,7 +488,7 @@ address {
     margin-bottom: 20px;
 }
 code, kbd, pre, samp {
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
 }
 code {
     background-color: #f9f2f4;
@@ -1853,11 +1853,11 @@ input.btn-block[type="submit"], input.btn-block[type="reset"], input.btn-block[t
     transition: height 0.35s ease 0s;
 }
 @font-face {
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
  }
 .glyphicon {
     display: inline-block;
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
     font-style: normal;
     font-weight: normal;
     line-height: 1;
@@ -4474,7 +4474,7 @@ button.close {
     right: 50%;
 }
 .carousel-control .icon-prev, .carousel-control .icon-next {
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
     height: 20px;
     margin-left: -10px;
     margin-top: -10px;
@@ -4974,15 +4974,15 @@ th.visible-print, td.visible-print {
 .signup-new, .signup-create {
     background-color: #888;
     color: white;
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
     margin-top: 40px;
 }
 .signup-new h1, .signup-new h2, .signup-new h3, .signup-create h1, .signup-create h2, .signup-create h3 {
     color: white;
-    font-family: "Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family: "GillSans light", "Satellite","Helvetica","sans serif";
 }
 @font-face {
-    font-family: "Gillsans-light", "Satellite";
+    font-family: "GillSans light", "Satellite";
     src: url("Gillsans-light.ttf");
     src: url("Satellite.svg") format('svg');    
     src: url("Satellite.otf");
@@ -5030,7 +5030,7 @@ ul.sdt_menu{
     margin:0;
     padding:0;
     list-style: none;
-    font-family:"Gillsans-light", "Satellite","Helvetica","sans serif";
+    font-family:"GillSans light", "Satellite","Helvetica","sans serif";
     font-size:14px;
     width:1020px;
 }
